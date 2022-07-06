@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @SujanBoopathy
 - 👀 I’m interested in AL/ML Engineering and Back-end Development & experienced in C,C++,Java,Python and MySQL
 - 🌱 I’m currently learning Java , Maven , Jax RS and Jersey
-- 💞️ I’m looking to collaborate on app development
+- 💞️ I’m looking to collaborate on full stack development
 - 📫 How to reach me at sujansaradha@gmail.com
 
 <!---
